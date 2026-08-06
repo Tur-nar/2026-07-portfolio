@@ -45,7 +45,7 @@ const Technologies = () => {
             <div className='absolute w-[2.7em] h-[5em] skew-y-[40deg] bg-secondary dark:bg-gray-200 left-0 top-[-5%] -z-10'></div>
             <div className='z-10'>
                 <h1 className="text-2xl font-medium md:text-3xl tech-anim">Technologies</h1>
-                <p className="text-sm mt-2 mb-9 md:text-base lg:mb-12 tech-anim">Technologies i'm most familiar with</p>
+                <p className="text-sm mt-2 mb-9 md:text-base font-[300] lg:mb-12 tech-anim">Technologies i'm most familiar with</p>
 
                 <div className="grid grid-cols-4 mx-auto gap-3 md:gap-8 lg:grid-cols-8 lg:gap-x-16 lg:gap-y-10">
                     <span className="flex flex-col items-center px-3 text-[.85rem] font-[300] tech-skill-anim">

@@ -62,7 +62,7 @@ const Projects = () => {
                 <Reveal className="section-heading-row project-heading">
                     <div>
                         <h2 className="section-title" id="projects-title">Projects built with purpose.</h2>
-                        <p className="mt-2">A selection spanning enterprise systems, behavioral platforms, AI-powered productivity tools, and client-facing websites.</p>
+                        <p className="mt-2 font-[300]">A selection spanning enterprise systems, behavioral platforms, AI-powered productivity tools, and client-facing websites.</p>
                     </div>
                 </Reveal>
 
