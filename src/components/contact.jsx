@@ -16,7 +16,7 @@ const Contact = () => {
         }, {
             y: 0,
             opacity: 1,
-            stagger: 0.2,
+            stagger: 0.1,
             ease: 'power1.inOut',
             scrollTrigger: {
                 trigger: '.contact-anim',

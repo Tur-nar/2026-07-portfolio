@@ -14,10 +14,10 @@ const Skills = () => {
         gsap.fromTo('.anim-skills', {
             opacity: 0,
             y: 20
-        },{
+        }, {
             y: 0,
             opacity: 1,
-            stagger: 0.2,
+            stagger: 0.1,
             ease: 'power1.inOut',
             scrollTrigger: {
                 trigger: '.anim-skills',
@@ -32,7 +32,7 @@ const Skills = () => {
         }, {
             y: 0,
             opacity: 1,
-            stagger: 0.2,
+            stagger: 0.1,
             ease: 'power1.inOut',
             scrollTrigger: {
                 trigger: '.skill-container-anim',

@@ -126,7 +126,7 @@ const Hero = () => {
       duration: .8,
       y: 0,
       opacity: 1,
-      stagger: 0.15,
+      stagger: 0.1,
       ease: 'power1.inOut'
     })
 
@@ -135,7 +135,7 @@ const Hero = () => {
       opacity: 1,
       duration: 1,
       ease: 'power1.inOut',
-      delay: 0.5
+      delay: 0.2
     })
   }, [])
 

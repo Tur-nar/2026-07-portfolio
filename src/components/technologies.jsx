@@ -30,7 +30,7 @@ const Technologies = () => {
             y: 0,
             opacity: 1,
             ease: 'power1.inOut',
-            stagger: 0.05,
+            stagger: 0.02,
             scrollTrigger: {
                 trigger: '.tech-skill-anim',
                 start: 'top 80%',

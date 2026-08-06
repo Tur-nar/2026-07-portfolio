@@ -22,7 +22,7 @@ const About = () => {
         gsap.to('.slide-Y', {
             y: 0,
             opacity: 1,
-            stagger: 0.15,
+            stagger: 0.1,
             ease: 'power1.inOut',
             scrollTrigger: {
                 trigger: '.slide-Y',

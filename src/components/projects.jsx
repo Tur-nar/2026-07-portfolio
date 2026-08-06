@@ -61,10 +61,9 @@ const Projects = () => {
             <div className="section-shell">
                 <Reveal className="section-heading-row project-heading">
                     <div>
-                        <p className="section-kicker">03 / Selected work</p>
                         <h2 className="section-title" id="projects-title">Projects built with purpose.</h2>
+                        <p className="mt-2">A selection spanning enterprise systems, behavioral platforms, AI-powered productivity tools, and client-facing websites.</p>
                     </div>
-                    <p className="section-heading-note">A selection spanning enterprise systems, behavioral platforms, AI-powered productivity tools, and client-facing websites.</p>
                 </Reveal>
 
                 <div className="projects-grid">
